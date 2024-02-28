@@ -1,0 +1,13 @@
+body{
+    height: 100%;
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    background: url(./gang.jpg) no-repeat center/cover;
+}
+
+#game{
+    background-color: transparent;
+    margin-top: 11rem;
+    border: 2px solid #fff;
+}
